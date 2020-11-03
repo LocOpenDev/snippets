@@ -1,2 +1,2 @@
 # snippets
-My snippets for learn and share!
+My Python snippets for learn and share!
