@@ -83,6 +83,7 @@ class Board:
         print('|'.join(self.board[2]))
 
     def reset(self):
+        """Reset game board for new game"""
         self.board = [
             ['1', '2', '3'],
             ['4', '5', '6'],
